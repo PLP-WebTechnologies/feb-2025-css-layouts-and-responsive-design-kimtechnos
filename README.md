@@ -12,10 +12,11 @@ Ensure proper alignment and spacing.
 - Add a navigation bar and structure the content.
 - Use media queries to adjust layout for mobile, tablet, and desktop.
 
->[!NOTE]
->  - Include at least:
->  - navigation bar
->  - media queries
+> [!NOTE]
+>
+> - Include at least:
+> - navigation bar
+> - media queries
 
 # Tasks
 
